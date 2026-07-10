@@ -1,5 +1,4 @@
 # A Dark Dungeon
-#### Video Demo:  https://youtu.be/g_v7yFaz4BI
 #### Description:
 The program I made is called A Dark Dungeon. The game is a text-based dungeon crawler adventure game. The game is set in a series of rooms that may or may not contain items or an enemy to battle. The object of the game is to reach the void, a room that requires a level 4 key to open. Along the way, players will find items or equipment they can use. The player can look for items by using the search command. Once an item has been found, they can grab it using the get command. The player can use items in their inventory by typing the use command. If a player is engaged in battle they can use the run command to run away or the attack command to fight. If a player kills an enemy, there is a chance that it will drop an item. During battle, the player can also use items to heal or to boost a stat. Once the player reaches the void, the terminal will clear and it will display some ending text as well as a game over. If the player dies, the terminal will clear and will display where they died, and a game over.
 
